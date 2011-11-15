@@ -1,7 +1,7 @@
 Weechat URL Title
 =========================
 
-This is a [Weechat](http://pinboard.in) python script which will print out the title for any url that is printed in a buffer. It will also print the category for YouTube (e.g. "Music") and will also match www.google.com.
+This is a [WeeChat](http://pinboard.in) python script which will print out the title for any url that is printed in a buffer. It will also print the category for YouTube (e.g. "Music").
 
 It will also (atleast try to) disregard popular media types to avoid downloading files and images.
 
